@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Picnic-Park/static/css/main.0bd46038.css",
+    "main.js": "/Picnic-Park/static/js/main.29e4e0e1.js",
+    "index.html": "/Picnic-Park/index.html",
+    "main.0bd46038.css.map": "/Picnic-Park/static/css/main.0bd46038.css.map",
+    "main.29e4e0e1.js.map": "/Picnic-Park/static/js/main.29e4e0e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd46038.css",
+    "static/js/main.29e4e0e1.js"
+  ]
+}
