@@ -93,7 +93,6 @@ Your app should now be running at **[http://localhost:3000/](http://localhost:30
 
 **Sir Herlerdhyre**
 Frontend Developer | React Enthusiast | Lifelong Learner
-📫 [Your Email or Portfolio Link]
 
 > *"Preparation is half the journey."* ✈️
 
